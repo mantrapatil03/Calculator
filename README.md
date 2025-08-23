@@ -1,4 +1,4 @@
-🧮 Simple Calculator
+## 🧮 Simple Calculator
 
 A simple Python program that performs basic arithmetic operations.
 This project is a beginner-friendly example of how to build an interactive calculator using Python.
@@ -19,7 +19,7 @@ This project is a beginner-friendly example of how to build an interactive calcu
 
 
 
-📸 Demo:-
+## 📸 Demo:-
 🧮 Simple Calculator
 1. Add
 2. Subtract
@@ -35,6 +35,6 @@ Enter second number: 5
 
 
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Mantra Patil
