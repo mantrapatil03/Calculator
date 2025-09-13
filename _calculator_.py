@@ -43,5 +43,7 @@ def calculator():
             else:
                 print("⚠️ Error! Division by zero")
 
+
 if __name__ == "__main__":
+
     calculator()
