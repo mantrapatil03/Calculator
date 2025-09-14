@@ -13,7 +13,7 @@ This project is a beginner-friendly example of how to build an interactive calcu
 
 ➗ Division (with division by zero handling)
 
-🚪 Exit option
+🚪 Exit option      
 
 ⚠️ Error handling for invalid inputs
 
