@@ -1,40 +1,74 @@
-## 🧮 Simple Calculator
+#  🧮 Calculator Projects 🚀
 
-A simple Python program that performs basic arithmetic operations.
-This project is a beginner-friendly example of how to build an interactive calculator using Python.
+Welcome to my **Calculator repository**! 🎉  
+This repo contains different projects built using **Python, HTML, CSS, and JavaScript**.`(This repository contains **two calculator applications** built using **Python** and **Web technologies**.)` 
+Each project is self-contained with its own purpose, features, and code.
 
-✨ Features
+---
 
-➕ Addition
+## 📂 Projects Included
 
-➖ Subtraction
+### 🔹 1. [Python CLI Calculator (`_calculator_.py`)](_calculator_.py)
+A simple command-line calculator written in Python.  
 
-✖️ Multiplication
+**Run it:**
+```bash
+python _calculator_.py
+```
 
-➗ Division (with division by zero handling)
+### 🔹 2. [Modern Web Calculator (`calculator.html`)](calculator.html)
 
-🚪 Exit option      
+A responsive and interactive calculator built with HTML, TailwindCSS, and JavaScript.
 
-⚠️ Error handling for invalid inputs
+**Run it:**
+```
+Open `calculator.html` in your browser.
 
+Start calculating with a clean, modern UI!
+```
 
+*(More projects will be added soon!)*
 
-## 📸 Demo:-
-🧮 Simple Calculator
-1. Add
-2. Subtract
-3. Multiply
-4. Divide
-5. Exit
+---
 
-Enter choice (1/2/3/4/5): 1  
-Enter first number: 10  
-Enter second number: 5  
-📊 Result: 10 + 5 = 15
+## ▶️ How to Use
+ Clone the repository:
+   ```bash
+   git clone https://github.com/mantrapatil03/Calculator.git
+   ```
 
+## 🛠️ Tech Stack
 
+1.Python 3
+
+2.HTML5
+
+3.TailwindCSS
+
+4.Vanilla JavaScript
+
+## 🤝 Contributing
+
+- Contributions are welcome!
+
+- Fork the repo
+
+- Create a new branch (`feature/your-feature`)
+
+- Commit changes and open a PR
 
 
 ## 👨‍💻 Author
+**Mantra Patil**
 
-Mantra Patil
+💼 LinkedIn: www.linkedin.com/in/mantrapatil25
+
+✉ Email: techmantrapatil@gmail.com
+
+---
+***✨ Thanks for visiting my profile! ✨***
+
+
+
+
+
