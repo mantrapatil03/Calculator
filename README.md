@@ -8,7 +8,7 @@ Each project is self-contained with its own purpose, features, and code.
 
 ## 📂 Projects Included
 
-### 🔹 1. [Python CLI Calculator (`_calculator_.py`)](_calculator_.py)
+### 🔹 1. Python CLI Calculator (`_calculator_.py`)
 A simple command-line calculator written in Python.  
 
 **Run it:**
@@ -16,7 +16,7 @@ A simple command-line calculator written in Python.
 python _calculator_.py
 ```
 
-### 🔹 2. [Modern Web Calculator (`calculator.html`)](calculator.html)
+### 🔹 2. Modern Web Calculator (`calculator.html`)
 
 A responsive and interactive calculator built with HTML, TailwindCSS, and JavaScript.
 
