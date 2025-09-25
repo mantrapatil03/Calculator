@@ -39,13 +39,13 @@ Start calculating with a clean, modern UI!
 
 ## 🛠️ Tech Stack
 
-1.Python 3
+1.**Python 3**
 
-2.HTML5
+2.**HTML5**
 
-3.TailwindCSS
+3.**TailwindCSS**
 
-4.Vanilla JavaScript
+4.**Vanilla JavaScript**
 
 ## 🤝 Contributing
 
