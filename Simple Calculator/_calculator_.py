@@ -1,5 +1,6 @@
 
 # calculator
+
 def calculator():
     """Simple calculator program with basic arithmetic operations."""
 
@@ -45,4 +46,5 @@ def calculator():
                 print("⚠️ Error! Division by zero")
 
 if __name__ == "__main__":
+
     calculator()
