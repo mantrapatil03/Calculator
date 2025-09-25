@@ -4,7 +4,7 @@ Welcome to my **Calculator repository**! 🎉
 This repo contains different projects built using **Python, HTML, CSS, and JavaScript**.`(This repository contains **two calculator applications** built using **Python** and **Web technologies**.)` 
 Each project is self-contained with its own purpose, features, and code.
 
-![Uploading calculator.png…]()
+<img width="632" height="278" alt="calculator" src="https://github.com/user-attachments/assets/de6d9ad0-2c09-46f8-a948-b88dd8c02bc6" />
 
 ---
 
